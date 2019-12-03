@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">蔬果市集</string>
+    <string name="btn1">點我看優惠</string>
+    <string name="btnMsg">離開蔬果市集</string>
+    <string name="btnAlert">想吃什麼蔬菜？</string>
+    <string name="btnAlert2">想挑什麼水果？</string>
+    <string name="ok">確定</string>
+    <string name="hi">你點的餐是</string>
+    <string name="input_ur_name">請輸入其他想吃的蔬果</string>
+</resources>
